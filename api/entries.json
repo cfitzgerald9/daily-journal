@@ -1,0 +1,23 @@
+{
+    "journalEntries": [
+    {
+        "date": "1/24/18",
+        "concepts": "Functions pt. 2",
+        "entry": "I did a thing again again",
+        "mood": "Bummed"
+    },
+    {
+        "date": "1/23/18",
+        "concepts": "Objects and functions",
+        "entry": "I did a thing again",
+        "mood": "Stoked"
+    },
+
+    {
+        "date": "1/22/18",
+        "concepts": "The DOM",
+        "entry": "I did a thing",
+        "mood": "Stoked"
+    }
+]
+}
